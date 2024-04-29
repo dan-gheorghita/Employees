@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenTPBD", "ExamenTPBD\ExamenTPBD.csproj", "{AD1BED02-B389-47F2-A6DE-487192D54343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1BED02-B389-47F2-A6DE-487192D54343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1BED02-B389-47F2-A6DE-487192D54343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1BED02-B389-47F2-A6DE-487192D54343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1BED02-B389-47F2-A6DE-487192D54343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95D7FDE9-19AC-4EB1-ADD6-33032B8BFED5}
+	EndGlobalSection
+EndGlobal
